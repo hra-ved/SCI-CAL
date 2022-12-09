@@ -1,0 +1,19 @@
+{
+  trigonometry: {
+    sin(x): sin(
+    cos(x): cos(
+    tg(x): tan(
+    arcsin(x): arcsin(
+    arccos(x): arccos
+    arctg(x): arctan(
+    sinh(x): sinh(
+    cosh(x): cosh(
+    tgh(x): tanh(
+    arcsinh(x): asrcinh(
+    arccosh(x): arccosh(
+    arctgh(x): arctanh(
+  }
+  log: {
+    log_y(x): log
+  }
+}

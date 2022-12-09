@@ -1,0 +1,49 @@
+{
+  Universal:{
+    Kh: 6.62606957*10**-34             //Planck constant
+    Kħ: 1.054571726*10**-34            //Planck constant converted to its corresponding constant for angular freq
+    KC₀: 299792458*1                   //speed of light
+    KΕ₀: 8.8541878128*10**-12          //Vacuum permittivity
+    Kμ₀: 1.2566370614*10**-6           //Vacuum permeability
+    KZ₀: 376.730313668*1               //Impedance of free space
+    KG: 6.67384*10**-11                //Gravity constant
+    Kℓₚ: 1.616199*10**-35              //Plank's length
+  }
+  Electromagnetic:{
+    Kμₙ: 5.05078353*10**-27            //nuclear magneton
+    Kμb: 9.27400968*10**-24            //Bohr's magneton
+    Ke: 1.602176565*10**-19            //charge of electron
+    KΦ₀: 2.067833758*10**-15           //magnetic flux (quantum)
+    KG₀: 7.748091735*10**-5            //conductance (quantum)
+    KRₖ: 25812.80744*1                 //von Klitzing's constant
+  }
+  "Atomic and Nuclear":{
+    Kmₚ: 1.672621777*10**-27           //mass of proton
+    Kmₙ: 1.674927351*10**-27           //mass of neutron
+    Kmₑ: 9.10938291*10**-31            //mass of electron
+    Kmµ: 1.883531474*10**-28           //mass of muon
+    Ka₀: 5.291772109*10**-11           //Bohr's radius
+    Kα: 7.29735257*10**-3              //fine-structure constant
+    Krₑ: 2.817940327*10**-15           //classical electron radius
+    Kλc: 2.426310239*10**-12           //Compton wavelength
+    Kλcₚ: 1.321409856*10**-15          //proton Compton wavelength
+    Kλcₙ: 1.319590907*10**15           //neutron Compton wavelength
+    KR∞: 10973731.57*1                 //Rydberg constant
+  }
+  Phy-Chem:{
+  Ku: 1.660538921*10**-27              //atomic mass constant
+  KF: 96485.3365*1                     //Faraday's constant
+  KNₐ: 6.02214129*10**23               //Avogadro's constant
+  Kk: 1.3806488*10**-23                //Boltzmann's constant
+  KVₘ: 0.022710953*1                   //molar volume
+  KR: 8.31144621*1                     //molar gas constant
+  Kc₁: 3.74177153*1                    //first radiation constant
+  Kc₂: 0.01438777*1                    //second radiation constant
+  Kσ: 5.670373*10**-8                  //Stefan–Boltzmann constant
+  }
+  "Adopted Values":{
+  Kg: 9.80665*1                        //acceleration of the Gravity Force on the planet Earth
+  Katm: 101325*1                       //standard atmospheric pressure
+  KRₖ₋₉₀: 25812.807*1                  //von Klitzing constant (common form)
+  }
+}

@@ -1,0 +1,11 @@
+pip==21.3.1
+PyQt6-Qt6==6.2.2
+PyQt6-sip==13.2.0
+PyQt6==6.2.2
+numpy==1.21.5
+pip==21.3.1
+PyQt6-Qt6==6.2.2
+PyQt6-sip==13.2.0
+PyQt6==6.2.2
+numpy==1.21.5
+hjson==3.0.2

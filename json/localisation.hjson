@@ -1,0 +1,128 @@
+{
+  "en": {
+    "app-name": "SCI-CAL X-PRO",
+    "file": "File",
+    "quit": "Quit",
+    "edit": "Edit",
+    "undo": "Undo",
+    "redo": "Redo",
+    "cut": "Cut",
+    "copy": "Copy",
+    "paste": "Paste",
+    "settings": "Settings",
+    "languages": "Languages",
+    "help": "Help",
+    "standard": "Standard",
+    "scientific": "Scientific",
+    "matrix": "Matrix",
+    "functions": "Functions",
+    "trigonometry": "Trigonometry",
+    "constants": "Constants",
+    "bitwise": "Bitwise"
+    "determinant-text": "There has been an error with matrix determinant"
+    "determinant-title":  "Determinant Error"
+    "determinant-extra": "To calculate matrix determinant, matrix format must be NxN"
+    "matrix-text": "There has been an error with matrix inversion"
+    "matrix-title":  "Inversion Error"
+    "matrix-extra": "To calculate matrix inversion, matrix determinant must not be 0"
+    "addition-text": "There has been an error with matrix addition"
+    "addition-title":  "Addition Error"
+    "addition-extra": "To add two matrices, matrix format must be NxN and NxnN"
+    "subs-text": "There has been an error with matrix subtraction"
+    "subs-title":  "Subtraction Error"
+    "subs-extra": "To subtract two matrices, matrix format must be NxN and NxnN"
+    "mul-text": "There has been an error with matrix multiplication"
+    "mul-title":  "Multiplication Error"
+    "mul-extra": "To multiply two matrices, matrix format must be NxM and MxnN"
+    "sca-text": "There has been an error with matrix scalar multiplication"
+    "sca-title":  "Scalar Multiplication Error"
+    "sca-extra": "To multiply matrix and scalar, matrix  format must be NxN and 1xn1"
+    "open-file": "Open File"
+    "0-title":  "Zero Division Error"
+    "0-extra": "Please do not try to divide by 0"
+    "0-text": "Division by 0 is undefined"
+    "syntax-title":  "Syntax Error"
+    "syntax-extra": "Please fiy your syntax. \n maybe you have forgot to close the brackets."
+    "syntax-text": "The syntax is wrong"
+    "Universal" : "Universal"
+    "Electromagnetic": Electromagnetic
+    "Atomic and Nuclear": "Atomic and Nuclear"
+    Phy-Chem: Phy-Chem
+    "Adopted Values": "Adopted Values"
+    "add-col": "Add col"
+    "add-row": "Add row"
+    "add-row-col": "Add col and row"
+    "del-col" : "Delete col"
+    "del-row" : "Delete row"
+    "del-row-col": "Delete col and row"
+    "det" : "Determinant"
+    "inv": "Inversion"
+    "import": "Import"
+    "export": "Export"
+    "trans": "Transpose"
+    "p-r": "Pseudo random"
+  },
+  "hr": {
+    "app-name": "ZNA-KAL Ž-PRO",
+    "file": "Datoteka",
+    "quit": "Izlaz",
+    "edit": "Uredi",
+    "undo": "Nazad",
+    "redo": "Naprijed",
+    "cut": "Izreži",
+    "copy": "Kopiraj",
+    "paste": "Zalijepi",
+    "settings": "Postavke",
+    "languages": "Jezici",
+    "help": "Pomoć",
+    "standard": "Standarno",
+    "scientific": "Znanstevno",
+    "matrix": "Matrično",
+    "functions": "Funkcije",
+    "trigonometry": "Trigonometrija",
+    "constants": "Kosntante",
+    "bitwise": "Po Bitu"
+    "determinant-text": "Dogodila se pogreška sa računanjem determinante"
+    "determinant-title":  "Determinantska Pogreška"
+    "determinant-extra": "Da biste izračunali determinantu, format matrice mora biti NxN"
+    "matrix-text": Dogodila se pogreška sa određivanjem inverzije matrice"
+    "matrix-title":  "Inverzivna Pogreška"
+    "matrix-extra": "Da biste izračunali inverziju matrice, determinanta ne smije biti jednaka nuli"
+    "addition-text": "Dogodila se pogreška sa zbrajanjem matrica"
+    "addition-title":  "Zbrajalačka Pogreška"
+    "addition-extra": "Da biste zbrojili dvije matrice, njihovi formati moraju biti NxN i NxN."
+    "subs-text": "Dogodila se pogreška sa oduzimanjem matrica"
+    "subs-title":  "Oduzimačka Pogreška"
+    "subs-extra": "Da biste oduzeli dvije matrice, njihovi formati moraju biti NxN i NxN."
+    "mul-text": "Dogodila se pogreška sa množenjem matrica"
+    "mul-title":  "Množinska Pogreška"
+    "mul-extra": "Da biste pomnožili dvije matrice, njihovi formati moraju biti NxM i MxN."
+    "sca-text": "Dogodila se pogreška sa skalarnim množenjem matrica"
+    "sca-title":  "Skalarno-množinska Pogreška"
+    "sca-extra": "Da biste pomnožili matricu i skalar, njihovi formati moraju biti NxN i 1x1."
+    "open-file": "Otvori datoteku"
+    "0-title":  "Nula-djeliteljska Pogrešla"
+    "0-extra": "Molimo Vas, ne pokušavajte djeliti sa nulom"
+    "0-text": "Dijeljenje sa nulom je nedefinirano."
+    "syntax-title":  "Sintaktička Pogreška"
+    "syntax-extra": "Molimo, popravite sintaksu. \n možda ste zaboravili zatvoriti zagrade."
+    "syntax-text": "Sintaksa je pogrešna"
+    "Universal" : "Univerzalno"
+    "Electromagnetic": Elekromagnetske
+    "Atomic and Nuclear": "Atomske i Nuklearne"
+    Phy-Chem: Fiz-Kem
+    "Adopted Values": "Prihvaćene vrijednosti"
+    "add-col": "Dodaj stupac"
+    "add-row": "Dodaj redak"
+    "add-row-col": "Dodaj stupac i redak"
+    "del-col" : "Izbriši stupac"
+    "del-row" : "Izbriši redak"
+    "del-row-col": "Izbriši stupac i redak"
+    "det" : "Determinanta"
+    "inv": "Inversion"
+    "import": "Uvezi"
+    "export": "Izvezi"
+    "trans": "Transponiraj"
+    "p-r": "Pseudo Nasumično"
+  }
+}
