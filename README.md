@@ -56,7 +56,7 @@ c:\path to scripts\my script.cmd
 
 ## 5. Future plans
 + equation support (standard, exponetial, polynomial, differential, etc. ) [WIP]
-+ base conversion mode [WIP]
++ base conversion and calculator mode [WIP]
 + derivation and integration mode
 + function graph plotter mode
 + statistics mode
