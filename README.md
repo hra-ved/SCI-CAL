@@ -12,6 +12,7 @@ Using python3 and PyQt6
 + Matrix mode offering addition, subtraction and two types of multiplication (scalar and matrix)
 + Transpose, Inverse, Determinant and Pseudo random gen options included for matrix part
 + Bitwise mode offering all standard bitwise operations
++ Modular user interface and choice of additional options (via `*.hjson` files)
 
 ## 3. Install
 
