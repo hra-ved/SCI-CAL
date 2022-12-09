@@ -7,8 +7,11 @@ Using python3 and PyQt6
 
 ## 2. Key features
 
-+ Built-in constants from many areas such as Electromagnetism or Nuclear physics
-+ Built-in functions such as logarithms (with custom base or the standard one), trigonometric or hyperbolic functions
++ Built-in, extensive choice of constants from many areas such as Electromagnetism or Nuclear physics
++ Built-in choice of functions such as logarithms (with custom base or the standard one), trigonometric or hyperbolic
++ Matrix mode offering addition, subtraction and two types of multiplication (scalar and matrix)
++ Transpose, Inverse, Determinant and Pseudo random gen options included for matrix part
++ Bitwise mode offering all standard bitwise operations
 
 ## 3. Install
 
