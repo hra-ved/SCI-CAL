@@ -2,7 +2,7 @@
 
 ## 1. Introdoction
 
-Calculator offering everything a standard scientific calculator does, and even more
+Calculator offering everything a standard scientific calculator does, and even more     
 Using python3 and PyQt6
 
 ## 2. Key features
