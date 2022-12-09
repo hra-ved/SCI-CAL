@@ -54,6 +54,13 @@ c:\path to scripts\my script.cmd
 ![GUI](/res/Sci_bitwise.png)
 
 
-## License
+## 5. Future plans
++ equation support (standard, exponetial, polynomial, differential, etc. ) [WIP]
++ base conversion mode [WIP]
++ derivation and integration mode
++ function graph plotter mode
++ statistics mode
+
+## 6. License
 
 + MIT License
